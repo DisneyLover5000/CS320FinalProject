@@ -1,11 +1,7 @@
 from turtle import*
 
-
-
-
-
 def Logo(l):
-    color("gray")
+    color("gray") #border color
     begin_fill()
     right(40)
     forward(l+l/3)
@@ -24,7 +20,7 @@ def Logo(l):
 
     left(70)
     
-    color("red")
+    color("red") #main hat color
     begin_fill()    
     forward(l)
     right(30)
@@ -33,9 +29,7 @@ def Logo(l):
     forward(l/3)
     right(60)
     forward(l/2)
-    
 
-        
     right(150)
     forward(l/2)
     
@@ -47,15 +41,14 @@ def Logo(l):
     forward(l/3)
     forward(l/4)
     
-    
     end_fill()
-    color("gray")
+    color("gray") #bottom and extra color
     penup()
     goto(173,-18)
     pendown()
     forward(l/4)
-    #flower(l/8)
-    snowflake(l/3,2)
+    #flower(l/8) #flower
+    snowflake(l/3,2) /#snowflake
     #penup()
     #goto(75,-10)
     #pendown() 
@@ -63,11 +56,8 @@ def Logo(l):
     hideturtle()
     #getscreen().getcanvas().postscript(file='santahat.ps')
     done()
-    
-    
-    
- 
-def edge(lengthSide,levels):
+
+def edge(lengthSide,levels): #edges
     if levels == 0:
         forward(lengthSide)
     else:
@@ -79,7 +69,7 @@ def edge(lengthSide,levels):
         left(60)
         edge(lengthSide/3,levels-1)
          
-def snowflake(lengthSide,levels):
+def snowflake(lengthSide,levels): #snowflake process
         color("gray")
         begin_fill() 
         
@@ -89,11 +79,8 @@ def snowflake(lengthSide,levels):
         right(120)
         edge(lengthSide,levels) 
         end_fill()
-     
-     
-     
-def flower(l):
-
+    
+def flower(l): #flower process
     leaf(l)
     right (90)
     petals(l)
@@ -111,8 +98,7 @@ def flower(l):
     petals(l)     
     done()
 
-     
-def petals(l):
+def petals(l): #petals for flowers
     color("purple")
     begin_fill()
     forward(l)
@@ -124,10 +110,8 @@ def petals(l):
     forward (l)
     end_fill()
     return 
-    
-    
-    
-def leaf(l):
+ 
+def leaf(l): #leaf for flower
     color("green")
     begin_fill()
     forward(l)
@@ -143,13 +127,8 @@ def leaf(l):
     forward(l)
     right (180)
     end_fill()
-     
-     
-    
-def runscreen():
 
+def runscreen(): #running
     Logo(100)
    
-    
-    
 runscreen()    
