@@ -1,7 +1,7 @@
 from turtle import*
 
 def Logo(l):
-    color("gray") #border color
+    color("gray") #border/base color
     begin_fill()
     right(40)
     forward(l+l/3)
@@ -42,13 +42,13 @@ def Logo(l):
     forward(l/4)
     
     end_fill()
-    color("gray") #bottom and extra color
+    color("gray") #base color
     penup()
     goto(173,-18)
     pendown()
     forward(l/4)
     #flower(l/8) #flower
-    snowflake(l/3,2) /#snowflake
+    snowflake(l/3,2) #snowflake
     #penup()
     #goto(75,-10)
     #pendown() 
