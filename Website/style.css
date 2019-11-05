@@ -1,0 +1,14 @@
+.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color:#F3F1F1;
+
+}
+#main {
+  background-color: peachpuff;
+}
+#leftgrid{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#rightgrid{}
