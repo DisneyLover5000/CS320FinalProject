@@ -1,4 +1,4 @@
-.topmenu.menu {
+.topmenu{
   box-shadow: none;
   border: none;
   background-color:#F3F1F1;
@@ -12,7 +12,3 @@
   margin-right: 20px;
 }
 #rightgrid{}
-
-.aboutUsText{
-  font-family: "Marker Felt", cursive;
-}
