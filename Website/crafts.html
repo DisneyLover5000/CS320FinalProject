@@ -3,22 +3,72 @@
 <head>
   <meta charset="UTF-8">
   <title>Crafts</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript"
+          src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
-<header style="text-align:center">
-  <embed type="text/html" src="header2.html">
-</header>
 <body>
-<nav style="text-align: center">
-  <a href="suggestions.html">Homepage</a>
-  <a href="header2.html">Header Layout</a>
-  <a href="crafts.html">Crafts</a>
-</nav>
-<ul style="list-style-type: disc;" style="list-style-position: inside">
-  <li><a href="https://www.google.com/">google</a></li>
-</ul>
-<nav style="text-align: center">
-  <a href="https://forms.gle/XrTHAYS8oB9iQxMc7">Suggestions</a>
-</nav>
-</body>
+<div id="main">
+  <a href="index.html">
+    <img class="ui centered top image" src="Screen%20Shot%202019-11-04%20at%209.22.17%20PM.png" width="400px">
+  </a>
+</div>
+<div class="ui borderless menu">
+  <div class="ui centered grid container">
+    <div class="ui dropdown item">
+      CRAFTS
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <div class="item">All Crafts</div>
+        <div class="item">Cloths</div>
+        <div class="item">Garden</div>
+        <div class="item">Holiday</div>
+        <div class="item">Jewelery</div>
+        <div class="item">Paint</div>
+        <div class="item">Paper</div>
+        <div class="item">Pottery</div>
+        <div class="item">Scrapbook</div>
+        <div class="item">Toys</div>
+      </div>
+    </div>
+    <a class="browse item">
+      CODE
+      <i class="dropdown icon"></i>
+    </a>
+    <div class="ui dropdown item">
+      SEASONS
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <div class="item">Fall</div>
+        <div class="item">Spring</div>
+        <div class="item">Summer</div>
+        <div class="item">Winter</div>
+      </div>
+    </div>
+    <a class="item" href="suggestions.html">
+      SUGGESTIONS
+    </a>
+    <a class="item" href="aboutus.html">
+      ABOUT US
+    </a>
+    <a class="item">
+      <i class="user icon"></i>
+      MY LIST
+      <i class="dropdown icon"></i>
+    </a>
+    <a class="item" href="search.html">
+      <i class="search link icon"></i>
+    </a>
+  </div>
+</div>
 
+<script>
+  $('.ui.dropdown')
+      .dropdown()
+  ;
+</script>
+
+</body>
 </html>
