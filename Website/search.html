@@ -20,7 +20,7 @@
 
 <div class="ui borderless menu">
   <div class="ui centered grid container">
-  <div class="ui  category search item">
+  <div class="ui search item">
     <div class="ui transparent icon input">
       <input class="prompt" type="text" placeholder="Search ">
       <i class="search link icon"></i>
@@ -33,6 +33,28 @@
   <p> </p>
 
 </div>
+<script>
+  $('.ui.search')
+      .search({
+        source: content
+      })
+  ;
+</script>
+
+<script>
+  var content = [
+    { title: 'Andorra' },
+    { title: 'United Arab Emirates' },
+    { title: 'Afghanistan' },
+    { title: 'Antigua' },
+    { title: 'Anguilla' },
+    { title: 'Albania' },
+    { title: 'Armenia' },
+    { title: 'Netherlands Antilles' },
+    { title: 'Angola' },
+    { title: 'Argentina' },
+  ];
+</script>
   <script>
     $('.ui.dropdown')
         .dropdown()
