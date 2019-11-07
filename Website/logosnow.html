@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Python</title>
+  <title>Logo-Snowflake</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script type="text/javascript"
@@ -53,39 +53,113 @@
     </div>
     <a class="item" href="suggestions.html">
       SUGGESTIONS
-    <a class="item" href="aboutus.html">
-      ABOUT US
-    </a>
-    <a class="item">
-      <i class="user icon"></i>
-      MY LIST
-      <i class="dropdown icon"></i>
-    </a>
-    <a class="item" href="search.html">
-      <i class="search link icon"></i>
-    </a>
+      <a class="item" href="aboutus.html">
+        ABOUT US
+      </a>
+      <a class="item">
+        <i class="user icon"></i>
+        MY LIST
+        <i class="dropdown icon"></i>
+      </a>
+      <a class="item" href="search.html">
+        <i class="search link icon"></i>
+      </a>
+
+
+</a>
   </div>
 </div>
 
+</br>
+</br>
 
-<div style="text-align: center; "  >
+<h4 style="text-align: center"> Logo-Snowflake</h4>
+<h5 style="text-align: center"> python code </h5>
+<div class="ui grid">
 
-<p>Pseudocode....pseudocode</p>
-<p>
-  <a href="logosnow.html" class="ui small image">
-    <img src="images/logonocolor.png">
-  </a>
+  <div class="four wide column">
+  </div>
+  <div class="seven wide column">
+
+  from turtle import*</br>
   </br>
-  Logo-Snowflake
+
+  def Logo(l):</br>
+    right(40)</br>
+    forward(l+l/3)</br>
+    left(90)</br>
+    forward(l/8)</br>
+    left(90)</br>
+    forward(l+l/3)</br>
+    left(90)</br>
+    forward(l/8)</br>
+    left(180)</br>
+    forward (l/8)</br>
+    right(90)</br>
+    forward(l/7)</br>
+    left(70)</br>
+    forward(l)</br>
+    right(30)</br>
+    forward(l/2)</br>
+    right(40)</br>
+    forward(l/3)</br>
+    right(60)</br>
+    forward(l/2)</br>
+    right(150)</br>
+    forward(l/2)</br>
+    left(100)</br>
+    forward(l/4)</br>
+    left(30)</br>
+    forward(l/3)</br>
+    left(15)</br>
+    forward(l/3)</br>
+    forward(l/4)</br>
+    penup()</br>
+    goto(173,-18)</br>
+    pendown()</br>
+    forward(l/4)</br>
+    snowflake(l/3,2)</br>
+    hideturtle()</br>
+    done()</br>
+  </br>
+  </br>
+  def edge(lengthSide,levels):</br>
+    if levels == 0:</br>
+    forward(lengthSide)</br>
+    else:</br>
+    edge(lengthSide/3,levels-1)</br>
+    left(60)</br>
+    edge(lengthSide/3,levels-1)</br>
+    right(120)</br>
+    edge(lengthSide/3,levels-1)</br>
+    left(60)</br>
+    edge(lengthSide/3,levels-1)</br>
+  </br>
+  def snowflake(lengthSide,levels):</br>
+    edge(lengthSide,levels)</br>
+    right(120)</br>
+    edge(lengthSide,levels)</br>
+    right(120)</br>
+    edge(lengthSide,levels)</br>
+  </br>
+  </br>
+  def runscreen():</br>
+  Logo(100)</br>
+  runscreen()   </br>
 </p>
+  </div>
+
+  <div class="four wide column">
+    <img src="images/logonocolor.png" width="200px">
+  </div>
+
 </div>
-
-
 <script>
   $('.ui.dropdown')
       .dropdown()
   ;
 </script>
+
 
 </body>
 </html>
