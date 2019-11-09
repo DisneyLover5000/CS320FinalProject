@@ -1,7 +1,6 @@
 .topmenu{
   box-shadow: none;
   border: none;
-  background-color:#F3F1F1;
 
 }
 #main {
@@ -18,14 +17,13 @@
   font-style: italic;
   font-family: 'Apple Braille',cursive;
 }
-#scrollMenu {
+.scrollMenu {
   list-style-type:none;
   white-space:nowrap;
   overflow-x: scroll;
   overflow-y: hidden;
-  width: 110px;
-  height:210px;
-  border: 13px solid #bed5cd;
+  width: auto;
+  height:250px;
 }
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
@@ -33,4 +31,5 @@
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
+  padding-right: 5px;
 }
