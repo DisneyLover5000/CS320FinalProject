@@ -33,9 +33,3 @@
   transform: rotate(90deg);
   padding-right: 5px;
 }
-#toggled{
-  position: fixed;
-}
-#toggled:checked{
-  color: blue;
-}
