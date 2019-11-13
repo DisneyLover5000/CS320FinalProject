@@ -67,13 +67,38 @@
     </a>
   </div>
 </div>
-<p id="listTitle" style="text-align: center">My List</p>
+<h2 id="listTitle" style="text-align: center">My List</h2>
+
+<div class="form">
+  <button id="clear">Clear items</button>
+</div>
+
+<ul id="list">
+
+</ul>
+
+
+</body>
+
+<script>
+  const clear = document.getElementById("clear");
+  const list = document.getElementById("list");
+  function addItem(item) {
+    const currentItem = item.value;
+    const listItem = document.createElement("li");
+    listItem.HTML = currentItem;
+    list.appendChild(listItem);
+  }
+  clear.onclick = function() {
+    list.HTML = "";
+  }
+</script>
+
 <script>
   $('.ui.dropdown')
       .dropdown()
   ;
 </script>
-</body>
 <footer>
   <br>
   <hr width="100%" color="black">
