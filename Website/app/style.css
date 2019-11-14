@@ -3,19 +3,18 @@
   border: none;
 
 }
-#main {
-}
+
 #leftgrid{
   margin-left: 20px;
   margin-right: 20px;
 }
-#rightgrid{}
 
 #aboutUsText{
   font-size: 20px;
   font-style: italic;
   font-family: 'Apple Braille',cursive;
 }
+
 .scrollMenu {
   list-style-type:none;
   white-space:nowrap;
@@ -24,6 +23,7 @@
   width: auto;
   height:250px;
 }
+
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -32,6 +32,7 @@
   transform: rotate(90deg);
   padding-right: 5px;
 }
+
 .rotateimg180 {
   -webkit-transform:rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -39,9 +40,5 @@
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
   padding-right: 5px;
-}
-
-#listTitle {
-  
 }
 
