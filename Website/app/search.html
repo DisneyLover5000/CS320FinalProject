@@ -22,13 +22,56 @@
   <div class="ui centered grid container">
   <div class="ui search item">
     <div class="ui transparent icon input">
+      <form method="get" action="{{ url_for('results') }}" class="form-inline my-2 my-sm-0">
       <input class="prompt" type="text" placeholder="Search ">
       <i class="search link icon"></i>
+      </form>
     </div>
     <div class="results"></div>
   </div>
+  </div>
 </div>
-</div>
+
+
+    {% if query %}
+    <div class="p-3 mb-2 bg-transparent text-white">
+
+      <div style="text-align: center">
+        <h4>Results for <strong>{{query}}</strong></h4>
+        {{ pagination.info }}
+        <table id="results" class="table table-sm" style="color: white">
+          <thead>
+          <tr>
+            <th class="th-sm">Name</th>
+          </tr>
+          </thead>
+          <tbody>
+          {% for id, name,  %}
+          <tr>
+            <td>
+              <form method="get" action="{{url_for('craft')}}">
+                <button type="submit" name="craft" class="btn btn-link" value="{{id}}">{{name}}</button>
+              </form>
+            </td>
+            <td>
+              {{rating}}
+            </td>
+          </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+        {{ pagination.links }}
+
+      </div>
+      {% endif %}
+
+
+
+
+
+
+
+
 <div class="ui segment">
   <p> </p>
 
