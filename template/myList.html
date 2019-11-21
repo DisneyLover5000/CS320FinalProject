@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>My List</title>
+  <meta charset="UTF-8">
   <title>CraftingWizards</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script type="text/javascript"
           src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
   <link rel="stylesheet" href="style.css">
-
 </head>
 <body>
 <div id="main">
@@ -58,7 +59,7 @@
     <a class="item" href="aboutUs.html">
       ABOUT US
     </a>
-    <a class="item" href="myList.html">
+    <a class="item">
       <i class="user icon"></i>
       MY LIST
     </a>
@@ -67,46 +68,38 @@
     </a>
   </div>
 </div>
-<h2 style="text-align: center;">Featured</h2>
+<h2 id="listTitle" style="text-align: center">My List</h2>
 
-<div style="text-align: center"  >
-  <a href="crafts/Holiday/Christmas/stockings.html" class="ui small image" style="color:black">
-    <img src="../doc/craftImages/Stocking.jpg">
-    <figcaption>Stocking Pattern</figcaption>
-  </a>
-  <a href="crafts/Holiday/Christmas/treeCalender.html" class="ui small image" style="color:black">
-    <img src="../doc/craftImages/Treecalander.jpg">
-    <figcaption>Tree Calender</figcaption>
-  </a>
-  <a href="crafts/Holiday/Christmas/santaBag.html" class="ui small image" style="color:black">
-    <img src="../doc/craftImages/santabag.jpg">
-    <figcaption>Santa Bag</figcaption>
-  </a>
-  <a href="crafts/Holiday/Christmas/xmasWreath.html" class="ui small image" style="color:black">
-    <img src="../doc/20191110_173727.jpg">
-    <figcaption>Christmas Wreath</figcaption>
-  </a>
-  <a href="crafts/Holiday/Christmas/christmascard.html" class="ui small image" style="color:black">
-    <img src="../doc/craftImages/CHcard1.png">
-    <figcaption>Christmas Card</figcaption>
-  </a>
+<div class="form">
+  <button id="clear">Clear items</button>
 </div>
-<div style="text-align: center">
-<h2 style="text-align: center;">Featured Markdowns </h2>
- <h4 style="text-align: center"> BlackFriday Sales </h4>
-  <a class="bn" href="https://www.michaels.com">Michaels </a> % off such and such
-<br>
-  <a class="item" href="https://www.joann.com">Joanns </a> % off such and such
-<br>
-  <a class="item" href=" https://www.amazon.com">Amazon</a> % off such and such
-</div>
+
+<ul id="list">
+
+</ul>
+
+
+</body>
+
+<script>
+  const clear = document.getElementById("clear");
+  const list = document.getElementById("list");
+  function addItem() {
+    const currentItem = document.getElementsByName('name');
+    const listItem = document.getElementById.innerHTML("write");
+    listItem.innerHTML = currentItem;
+    list.appendChild(listItem);
+  }
+  clear.onclick = function() {
+    list.innerHTML = "";
+  }
+</script>
+
 <script>
   $('.ui.dropdown')
       .dropdown()
   ;
 </script>
-
-</body>
 <footer>
   <hr width="100%" color="black">
   <div class="ui centered grid">
