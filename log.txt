@@ -1,0 +1,1469 @@
+commit 5b1a870ac4083ae6e037f445e4e0608b38399300
+Merge: 183be17 3df8f7a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Dec 4 13:35:37 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 183be17de30e6950dbdf2c0ee942c08c11f725d4
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Dec 4 13:35:33 2019 -0800
+
+    Still trying to test performance. Also updated black friday to christmas
+
+commit 3df8f7a8e18751a099fd1d1f461efed894a1198c
+Merge: 6cd0937 fdbe51f
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Dec 4 11:57:40 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 6cd0937e959803b9a9b46cdca3b4cb6f7a1b2fd8
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Dec 4 11:57:03 2019 -0800
+
+    update DS_store
+
+commit fdbe51ff165db51f943770fb3072adf1346df70f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Dec 4 10:48:52 2019 -0800
+
+    Still trying to get a proper testing
+
+commit 9d9a6eae3482f5f43fc7fb4c5117cb43e3a02969
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Dec 3 13:00:10 2019 -0800
+
+    Trying to add testing for performance of loading the google form
+
+commit 500fbf069af9dcb39756a8d1cd35600fd643c98c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:55:58 2019 -0800
+
+    Added way to get to homepage on footer
+
+commit aa4ef9211d1c579aaceb57311250f3c01cec4726
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:51:06 2019 -0800
+
+    Updated all crafts page
+
+commit bfb1d2ff56a66cf7448615a642030d9d57ada68c
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 25 09:50:49 2019 -0800
+
+    updated look
+
+commit 185d7321e94946c410d4b3a4c1d0bef1b4885201
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:48:24 2019 -0800
+
+    Fixed placement of image
+
+commit cc2aa7da02295121741e10e5adceb497927f01fd
+Merge: 3d172a2 df80e4f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:45:13 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 3d172a221949a0f580f952f7e22043fdbf35bb54
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:45:06 2019 -0800
+
+    Placed a general image
+
+commit df80e4f3a3bd27efd72d72eb8df93243cecf64dd
+Merge: 62fda48 64a0fed
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 25 09:42:17 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 62fda4846ee31a7a23dc93a3ef11797628f67f18
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 25 09:42:16 2019 -0800
+
+    search bar update
+
+commit 64a0fed74623a09b0068155f712390abe0c5e4c8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:42:11 2019 -0800
+
+    Fixed more images
+
+commit adbece8b446a009f395151a094d9d821a98cd566
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:38:55 2019 -0800
+
+    Fixed some image issues
+
+commit 7aea6f34924d65d73464e5e90c97a6f1ab9902c0
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 25 09:25:18 2019 -0800
+
+    Just updated suggestions for a redirect for some browsers
+
+commit 566a210372d6e36bf60d77e0e8ab59ac7971694e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sun Nov 24 17:35:38 2019 -0800
+
+    messed with imgs
+
+commit 356aba1b691dc9705b34cef6d2f5d6dbee2a7d22
+Merge: 5146f52 f484170
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sun Nov 24 17:15:35 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 5146f52109721898636d768a8dc75a0e2f1eaed9
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sun Nov 24 17:15:32 2019 -0800
+
+    fixed search added pics to there pgs
+
+commit f4841709052e1124b35f8922ab8335fdd00ecb6a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sun Nov 24 11:20:27 2019 -0800
+
+    Just fixed a minor detail of a certain item
+
+commit 24e23b17b3afbe4d928d78cbb10f97a26bbaa4bc
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sun Nov 24 11:18:50 2019 -0800
+
+    Pics are being weird now
+
+commit 8e1b7f93d37e0e54cf16bf7858fa66212b35fc7c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sun Nov 24 11:17:43 2019 -0800
+
+    Got a general idea for myList, but it won't truly implement
+
+commit 5790ad5780eacd051fdb8e26311f1bdca143b17a
+Merge: 99a3df0 07838ef
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sun Nov 24 08:46:30 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 99a3df083af714bf03979a160910bc630956565e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sun Nov 24 08:46:28 2019 -0800
+
+    I did some edits
+
+commit 07838efe543d7c195e41bf87c7502b4613b76bd7
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Fri Nov 22 15:49:02 2019 -0800
+
+    search messd with
+
+commit 9b62e99c47741ce38bf8649f03785b581a942166
+Merge: 4f90e4e 63aa6b1
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Fri Nov 22 14:30:01 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 4f90e4e8fef77ca51d549ff6c11b490f9a3c36d0
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Fri Nov 22 14:29:58 2019 -0800
+
+    working on search
+
+commit 63aa6b1dc593ee8824a4cefb26db84505ac42821
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 14:25:40 2019 -0800
+
+    Just trying to get mylist working
+
+commit 0730fdee915d328ae435a79bfae477fe3ebbc787
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 12:45:47 2019 -0800
+
+    Just messed with the style of aboutUs and added links to more mockups
+
+commit 65a793d0e05acdf4418500e989850434d9dec50e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 12:28:07 2019 -0800
+
+    Added a homepage button
+
+commit cbf4524f9ae8054a3790359afdd772c865910576
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 12:13:29 2019 -0800
+
+    Added some javascript pseudocode to draw a square
+
+commit 87b3c0ff4fd40221982f54d34b236f824b1f37a4
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 11:15:09 2019 -0800
+
+    Update crafts with day of the dead background
+
+commit 30b592cef03ab505a510cc8a9f6c6f421d5806cd
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 21 10:51:28 2019 -0800
+
+    DOTD BG added
+
+commit 3763a5ae33eb2c1b92b194d479037dfa0035f16f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 10:09:13 2019 -0800
+
+    Changed out holidays section images for background photos
+
+commit 6154d0c0825c144af7fff2558fdb0a0574ae4057
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 09:46:29 2019 -0800
+
+    Updated allcrafts page and the front index a bit
+
+commit 9c319e6ae53dd7df8d20f7bc47b3d816d72e3e30
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 21 09:34:43 2019 -0800
+
+    Added the new crafts to the all crafts page. Renamed some files
+
+commit 3f1a6b4744abaf88f86a4b4ff6e24fde1ca60e11
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 21 09:15:32 2019 -0800
+
+    added backgraounds and messed with holeday pg.
+
+commit a4aa7ab17fa2359e8c5306cdf9da03d0199d2ecf
+Merge: 2fb45c2 f942396
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 21:18:00 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 2fb45c2ffc254f7491fe0d49b0f848099aa37691
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 21:17:58 2019 -0800
+
+    created craft pgs and added pictures
+
+commit f94239680ada1c69027a6a13591ca31919b5ef37
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 16:54:11 2019 -0800
+
+    Updated allcrafts quickly (need to update more)
+
+commit ee6e3ac89bc141dba86bfdc7eeb668a6b40f6c9f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 16:49:30 2019 -0800
+
+    All crafts have been updated
+
+commit 6685b3a7b9243f0cc297f75efe331e067a251689
+Merge: c475b61 62415ab
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 16:40:12 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit c475b61018dc284171d3d3c4e8bd7eca4037f81b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 16:38:50 2019 -0800
+
+    created holiday cards
+
+commit 62415ab25e776eefca9687c0e9982963bcbdab6e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 16:35:07 2019 -0800
+
+    Added more holidays
+
+commit c71f8adf5df88bab5a69ec1cc74460a5e16c0c9b
+Merge: 870094a 5a9a3f4
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 15:46:16 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 870094a145064b9d7568d65cf002e1fa753ad93b
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 15:46:09 2019 -0800
+
+    Fixed the menu for new holidays
+
+commit 5a9a3f405b47f9039ad4737030d5201f210047bf
+Merge: d7116c2 9235075
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 15:34:14 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit d7116c2f23cfc18ed6856c69826334b04bd61918
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 15:34:11 2019 -0800
+
+    created py to help get search to work
+
+commit 9235075fe2c92dd56ec169812b7baaf19de4c774
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 14:51:35 2019 -0800
+
+    Added more holidays and updated the menu
+
+commit 5a65496d0d6d715e68ee213044b8108a80eaaff8
+Merge: 5b2f74c 62def97
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 14:26:21 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 5b2f74c79ce90cafc5f0b16efc90a0fe716b51e6
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 14:24:48 2019 -0800
+
+    added holiday dropdown
+
+commit 62def97560d84293a07cb921b9d4f5f3f379d883
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 14:22:51 2019 -0800
+
+    Sorted holidays by holidays and changed holiday.html to christmas.html
+
+commit 6fd1a4b1ebeed712fe6680ca568cbd0857804e5e
+Merge: 00f7406 e8598fa
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 14:04:19 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 00f74066894d89ff11604bd20e66edd5ea6b1749
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 14:04:12 2019 -0800
+
+    Added new jewelry to lists
+
+commit e8598fa91048b6c5556b9032f2e30b5f80ed4d95
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 14:01:34 2019 -0800
+
+    added img.
+
+commit 26e0d99ce4221e3b244f71fdf77290215940b4ee
+Merge: f1d10f2 ff9bac8
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 13:59:36 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit f1d10f205986d6f78b55f709155ac35e2a6b3681
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 13:59:27 2019 -0800
+
+    updated charm
+
+commit ff9bac869effb931f1d4c5e6a621d0f759fc2794
+Merge: cb2ea76 d9b543c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 13:53:46 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit cb2ea76edca6a05fc283399f690b5a07f7e95674
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 13:53:39 2019 -0800
+
+    Removed seasons and updated dictionary
+
+commit d9b543cbd801688d0385e28c6b004a9a692ad6a2
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 20 13:53:12 2019 -0800
+
+    added jewlery crafts
+
+commit 65dc88779deeb8e4de7f0a3d18f78ecb0f28803f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 13:33:49 2019 -0800
+
+    Fixed some spaces
+
+commit d44dbf06cd433fa7597598206308ce22cbfea2be
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 12:58:19 2019 -0800
+
+    Put place holder image for items that didn't have images yet
+
+commit c81c4ccb96f5908515083ee320d8f0247eaedddd
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 12:57:03 2019 -0800
+
+    Removed pottery and scrapbook from menu bar that still had it
+
+commit e1200cdefc7266d73635a40246e18261ea36480d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 12:53:40 2019 -0800
+
+    Fixed mockups of jewelry
+
+commit 1f2d288f0769edbfb621f877b7cb19f1d72ab4cb
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 20 12:52:41 2019 -0800
+
+    Fixed jewelry
+
+commit 7f3787e7a6c124779a457b8714f9ef6ace60e6db
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 19 11:57:13 2019 -0800
+
+    Just added some text for now
+
+commit a15f85cd76f6ce3ffa06b04d008b49a77066f9f6
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 19 11:51:51 2019 -0800
+
+    New google form link (suggestions page takes awhile to load, have to fix)
+
+commit f10e6cf6b06cc6f44b2f3eb4a633ff48ed7e495a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 19 11:06:44 2019 -0800
+
+    Fixed everything so menu doesn't show what we removed
+
+commit 2e4933e3b2860043e468428ebe04c4899def894f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 19 10:58:38 2019 -0800
+
+    Fixed some spelling errors and coding as well as removed what we decided not to work on
+
+commit bc06302866f3c693da35113d002607c871e82e3a
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 19 09:19:52 2019 -0800
+
+    created craft pgs for Paper and Paint
+
+commit ebac2799849dd9d0280628abe93a0e98d141a0cd
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 18 23:07:27 2019 -0800
+
+    added 2 crafts in toys
+
+commit 07ada4e5f47d54bad4b98c36bcde5394fd2fa79f
+Merge: 4b9812c f874328
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 18 13:11:51 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 4b9812c453fc05be2ab92c3a2843ca2115af0d3e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 18 13:10:13 2019 -0800
+
+    Trying to make both links bigger in cloak using the style-sheet
+
+commit f874328372668bdca7f20ec1caa07fc06b971f9e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 18 12:49:06 2019 -0800
+
+    created garden craftpg. and added pics
+
+commit e4ad8286f91cc2ea8def9f6daf01f5f8ec069729
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 18 12:29:25 2019 -0800
+
+    Fixed some bugs where the pages weren't going to other pages
+
+commit 9d4fad78aad9be80cc60eb597717f07407d2a381
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 18 12:19:57 2019 -0800
+
+    Renamed wreath to xmasWreath so we know it's for the christmas wreath
+
+commit 3261c333ee439153004b4c01ee38c35c20c20cae
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Sat Nov 16 08:30:30 2019 -0800
+
+    Update .DS_Store
+
+commit ab1b084b2cc5c731923f78c48441ae46df9ac191
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Fri Nov 15 23:42:33 2019 -0800
+
+    thoughts on list pg.
+
+commit b334acba76456c68c7f8c9650409def8132f74f5
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 12:51:28 2019 -0800
+
+    Update .DS_Store
+
+commit 00fbeab1803fe78af03f6cf7cae5b5580029d94d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 12:37:35 2019 -0800
+
+    Just a little more organization
+
+commit 8f9a3bd2798bfae3594eedbba5a366c1c9708ec8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 12:22:42 2019 -0800
+
+    Just did some reorganizing of photos
+
+commit 7faa2e0e9666c20a88ee2531beff90a7fb2d8f5d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 12:15:37 2019 -0800
+
+    Updated the main crafts page
+
+commit 08f4b63919b282ae77735924eea1b4bd18815fc5
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 11:47:38 2019 -0800
+
+    Renamed a file
+
+commit 2b242502eea74c37cb434bd9ee6816d4a49e0e3b
+Merge: 6cf3060 4fe1909
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 11:46:31 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 6cf3060006fbea73a6012574ecb4516f0f6f792a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 11:46:29 2019 -0800
+
+    Trying to get list working
+
+commit 4fe19092bb09a20d974ebd358f832e4eab941c5e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 14 11:33:00 2019 -0800
+
+    added Dragon and headbandpgs
+
+commit ff30d15805b72d55038a0927b17056411d1a387f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 10:52:15 2019 -0800
+
+    Made main page have a base pic for now
+
+commit ac41133f0c835fa8c511729d9f9128907d837bf5
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 10:44:43 2019 -0800
+
+    Fixed suggestion pages footer
+
+commit 39b6b64ee1815ae405e7a89be1e688fa6275b114
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 10:27:09 2019 -0800
+
+    Update .DS_Store
+
+commit b3a424cf3a20f6c2ec6fd787e25b9fef48193dfe
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 10:24:02 2019 -0800
+
+    Added another screenshot, saving it
+
+commit 6b299c3c2b58d2847bc6f864677843e5b650e4ff
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 14 10:13:30 2019 -0800
+
+    Fixed some code for layout, saved some screenshots
+
+commit c81cb0cd1bf871b0b22a60f91c368b775ee67d48
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 17:17:09 2019 -0800
+
+    Added more crafts to the all crafts page
+
+commit cf147992f8818ef2ac323b59dbe13e417b0867ca
+Merge: c062a7e c7335e0
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 17:12:59 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit c062a7e585c46e2a7a572b1c262ec4a6fa058661
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 17:12:52 2019 -0800
+
+    Finished fixing footer for all (hopefully)
+
+commit c7335e0b6ccd99c5658479ce1e51404032c2118e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 17:10:28 2019 -0800
+
+    changed to footer
+
+commit edf3a760e14ac3e607bd16fa0779f7183a52a300
+Merge: 2e79907 c7be3a9
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 17:05:48 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 2e79907ff71b279cf1e6c5c7d4d00de31bcbe733
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 17:05:42 2019 -0800
+
+    Fixed up the footer, slowly working on fixing the footer for every other document
+
+commit c7be3a9ccdf71421e25c0175d8fb55cca46dc089
+Merge: 510d34c 49fd544
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 17:05:31 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 510d34cf90753d58fcfd08879fc71bd1e88418e0
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 17:05:23 2019 -0800
+
+    updated cloak
+
+commit 49fd5444bb036e06df6950d7b3a7a505446ec291
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 16:46:07 2019 -0800
+
+    Updated the all crafts page again
+
+commit 71e31059ab4c7824ca53d0c58574b5a0b8a6719c
+Merge: 61dbce6 4835456
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 16:44:36 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 61dbce64bf08f9fd833fb605a10399ef7dbf7a76
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 16:44:27 2019 -0800
+
+    Updated the all crafts page
+
+commit 48354568ea79f1035dff3bd6a89d0c2a60da099a
+Merge: 99fa069 f0dae09
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 16:35:49 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 99fa069628cedc6aa6d3bb874899b738356b60cb
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 16:35:40 2019 -0800
+
+    created crafts in holiday CH. related
+
+commit f0dae09bc7250806a29364332dab66ffa7af4ab4
+Author: K <33667184+DisneyLover5000@users.noreply.github.com>
+Date:   Wed Nov 13 16:30:04 2019 -0800
+
+    Updated phase of project
+
+commit 68171da0d8090e92f5c72714b531144f7e26ebae
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 15:43:04 2019 -0800
+
+    made treecalender
+
+commit 91b3b307c640ac537b65a526743318fc9173861c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 15:13:23 2019 -0800
+
+    Changed frame pic
+
+commit 552c9ce6da5690a78abe8563189292d78381ed82
+Merge: 5c6fdbf 3a5a220
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 15:09:13 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 5c6fdbf1fc3a10d9e7d18b21d8e05c1d32f60699
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 15:08:22 2019 -0800
+
+    update for holiday, adding pic
+
+commit 3a5a2203e308cf2aacc770e908652dd8e4cf0977
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 15:04:20 2019 -0800
+
+    Made a mockup layout
+
+commit d7b19bdd81ed5e8f642ef63e3f6b74eb324b757d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 14:51:38 2019 -0800
+
+    Worked on my list
+
+commit e5b0ee869235c147d4ea72545373977d4bde66c5
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 13:34:47 2019 -0800
+
+    uh ds store is stupid
+
+commit aa9746b381c191f39456ec5e543f173a9b4625c6
+Merge: 33c1c26 1f41714
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 13:12:23 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 33c1c2686a6da6ec90dbef9b45b45d7ff5fefa95
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 13:12:02 2019 -0800
+
+    just edited stuff
+
+commit 1f41714f6bcd0cf87b5e2250080fa5271c1cdd5f
+Merge: 06e1dc6 c408a5e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 13:08:08 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 06e1dc6affc660d82e1f119de37f16d597a3b90b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 13:06:03 2019 -0800
+
+    added footer to all pages
+
+commit c408a5e787c785cb01f377b2d1d36e9461f5c5e8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:51:52 2019 -0800
+
+    Update style.css
+
+commit 5f5ba26e475309e7f85d4832c00c92f3dfaf071b
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:47:44 2019 -0800
+
+    Quick fixed footer
+
+commit 8edbf149a7aae81088b485ab923e4dfeb2bf1134
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:45:50 2019 -0800
+
+    Worked on my list some more with the style.css
+
+commit 67e2e7af514f7203975417dbfda9768eac983a29
+Merge: 7ad5509 32a37a2
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 12:35:03 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 7ad550930722ebf6c1321b0c5d70186984cddb84
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 13 12:34:50 2019 -0800
+
+    created footer
+
+commit 32a37a218415d212ee46cf9200b90a8b05e0e9ae
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:33:46 2019 -0800
+
+    Fixed more while adding myList html page
+
+commit 8038d19657efc63ed13f238601cf337463352ac8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:18:53 2019 -0800
+
+    Finished up some organizing after adding a couple of files
+
+commit 97c91bdbff09ef6633f3e9fa4c4fdce872e21f0f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 12:10:00 2019 -0800
+
+    Just did some reorganizing
+
+commit 2dc29a299a59c9dec24d71ebdf56aea266bef975
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 13 11:57:15 2019 -0800
+
+    Fixed cloak name
+
+commit e1c2e0b486b606b11eb0d868f4bfb6c1084e5c2c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 13:31:05 2019 -0800
+
+    Removed dropdown icons for my list for some html docs
+
+commit 6f030d929f024f56e255bb6eb517e75e07029729
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 13:08:02 2019 -0800
+
+    Fixed up the python projects page
+
+commit d20694d25882826f8b3c37e4918501b5591426a5
+Merge: 6e55fef 4c96a0d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 12:57:11 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 6e55fef7336e0c06e32c2ff9790f3fe12f34ed26
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 12:57:03 2019 -0800
+
+    Just trying to get list of shopping items going
+
+commit 4c96a0dd3e51b23246a85c8780da24016852fc70
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 12:53:34 2019 -0800
+
+    updated
+
+commit a066a817fe9c917aec766f9fab82eda8d37afa4e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 12:53:15 2019 -0800
+
+    close to finish chainmailbracelet.html
+
+commit bb4d7287b298edc77943d742fe8f005bd308da61
+Merge: 73c8875 144a1e8
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 12:16:21 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 73c8875da1114b5fa7e0a9d3bfd3ade3ec8d822d
+Merge: db477a7 0d65b0a
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 12:16:11 2019 -0800
+
+    ...
+
+commit 144a1e8a60b11e31429b2fd9fe5ac51f922a5b7f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 12:13:48 2019 -0800
+
+    Just moved and fixed some things
+
+commit db477a71a62b66e9a86313bcb38b8e6114f23061
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 12:13:20 2019 -0800
+
+    ...
+
+commit 0d65b0aed82f8499cc58683e9619546dc99762ec
+Merge: 6c45cd1 a5f7975
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 12:12:48 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 6c45cd15e947da3bad81034e8892ca5369327c90
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 12:11:57 2019 -0800
+
+    Updated a few things that seemed to not get fixed before
+
+commit a5f79758bedd712a7dfbc8a284c0e1b445fc4907
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 11:27:28 2019 -0800
+
+    changed all links
+
+commit 1fef2d613fb264f4d5151a476840861d8058a7cf
+Merge: a4c7022 b4d7dc3
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 11:23:13 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit a4c702271d9f52c6ca50ce136e5aad775e041b9b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 11:23:11 2019 -0800
+
+    update
+
+commit b4d7dc32fc339152039e9dcbe707c18cd3c8c033
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 11:23:06 2019 -0800
+
+    Fixed link so it looked like normal text and not a link (might not stay that way)
+
+commit f18b85a030d213b546cfc09c45d8e83b6803e0eb
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 11:14:25 2019 -0800
+
+    Fixed header for every page based on new folder layout
+
+commit 9323530c297b88e0b3134f8959a4dc23d4ad2924
+Merge: fc080b5 680db5d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 10:56:09 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit fc080b508b169f86a901bf30320f38729e5263bf
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 10:56:01 2019 -0800
+
+    Fixed header some more
+
+commit 680db5d4f6c377c78a8a1380362c2240d6026eb3
+Merge: cc0a52b 1ba5378
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 10:55:18 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit cc0a52b16e7a5a742b93bdae4fc0ae57518dab2b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 12 10:54:09 2019 -0800
+
+    updated chainmailbracelet.html
+
+commit 1ba537801d3c63d8718f1218a99523352a528f2c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 10:52:47 2019 -0800
+
+    Got header fixed for getting the header
+
+commit ce6c00ddf594d97474740a9f38e58ff702b8679e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 10:47:20 2019 -0800
+
+    Trying to organize the folders
+
+commit 077dceba7b501bb6ca96c12b39d735851967cd70
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 12 10:39:24 2019 -0800
+
+    Added app and doc folder for last requirement
+
+commit ff081f4d97aa078c822cf922655f255746ff14d3
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Nov 11 08:12:31 2019 -0800
+
+    Added a link to just the header
+
+commit 75a57e4bd7ccb219011fefce6ebe37b86fedd06b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sat Nov 9 15:06:06 2019 -0800
+
+    fixed links and spacing
+
+commit 190512f6a074983ba401554f15f1ad6719c64021
+Merge: e876f2c bf3a621
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sat Nov 9 15:02:12 2019 -0800
+
+    had to fix things
+
+commit e876f2c61774ac0fbdbedc612b622fda508958ea
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Sat Nov 9 14:47:29 2019 -0800
+
+    changed header photo
+
+commit bf3a6216dec7abc763328877d5ad6d980806514c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 8 09:48:11 2019 -0800
+
+    ummm
+
+commit d0d80af71cfb7012625f3074212b58df3f6e04f1
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 8 09:18:56 2019 -0800
+
+    Added the new jewelry item to the scroll list
+
+commit e0a6450f8c4b63ab84e819f44a35158e666066ff
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 8 09:15:07 2019 -0800
+
+    Just fixed some things up
+
+commit b35c4d37437657c2bfa0e692354374f468c02268
+Merge: a5cac71 b76d464
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 8 09:03:52 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit a5cac718861a09f48d72cd639898804ce5219141
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 8 09:01:13 2019 -0800
+
+    Got scrolling working for allcrafts page
+
+commit 5026c5e98e5468ee666a23e346e5f0d80351a241
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 20:40:36 2019 -0800
+
+    rearanged some pages
+
+commit b76d46453abd17a62c7fcc2a96ad1c41fb3bb76a
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 20:32:45 2019 -0800
+
+    new craft pg.
+
+commit 8a9f6437cec5e3af6adc3682012af6b35c21c0f2
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 15:33:51 2019 -0800
+
+    created a new subfile for all of the craft pg.
+
+commit d984721e10b9edd27bd1a5f22f81bbd5236ecae6
+Merge: 7f5677d 8ba1b23
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 7 12:59:53 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 7f5677deb36a3c73fc342011881166cb3f96c818
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 7 12:59:45 2019 -0800
+
+    Save safe; trying to get horizontal scroll
+
+commit 8ba1b2331efa023c899ae39e3e325a8a345f0524
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 12:59:23 2019 -0800
+
+    created the rest of the sub header pages
+
+commit cefb4aa005c13a43d992d3a7aff57291247cfe22
+Merge: 019c9b3 bbb7f61
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 12:37:36 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 019c9b3b1060cb2a6f923f90a844e44cfee22711
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 12:37:34 2019 -0800
+
+    created logosnow and fixed some errors
+
+commit bbb7f61058f98daab12af23f90b058bc4241e28a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 7 12:31:31 2019 -0800
+
+    Adding missing div and fixed spelling error
+
+commit f531a4b0666b0c5744508cd321216873ce144380
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 7 12:26:44 2019 -0800
+
+    Just fixed up a few things
+
+commit d7e2c54fe32c07a55efde42a2fae65786f263607
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Nov 7 12:15:37 2019 -0800
+
+    Fixed example cloaks to be more inline with captions (also minor spelling errors)
+
+commit 5c7029e72efe089b2225ab9de3622cf3b6c1c684
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Nov 7 12:02:27 2019 -0800
+
+    created cloths and cloke and updated the header info
+
+commit 5ed4ef9574ff8fb9f1494124af537c5fb39631b3
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 16:58:30 2019 -0800
+
+    Changed font for style to actually have the info
+
+commit c2b00705bfc9d0189c07d9414b0d1d569c7b1b4c
+Merge: 1bdb2fc a2072ff
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 16:02:28 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 1bdb2fc4940b53a25b5ea3d57427e3ce1bf1a8e5
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 16:02:17 2019 -0800
+
+    added featured header
+
+commit a2072ff0c532527e80700b578e4875d612424437
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 16:01:12 2019 -0800
+
+    Update .DS_Store
+
+commit de5b35310e685b6fbfb1d4dedf305cbf175fdd61
+Merge: fd2c6dc 4576900
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 15:57:50 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit fd2c6dc088035a646ed9d43738895aaead632cc2
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 15:57:48 2019 -0800
+
+    trying to get search to run
+
+commit 4576900466b73da6da6415831093640a426899d6
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:56:11 2019 -0800
+
+    Updated to go between the dropdown items (or at least a few) and added a python for the pseudocode
+
+commit b765c962dffd31635c4053da13cef8791bc29662
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:42:10 2019 -0800
+
+    Made the logo clickable to go back to the homepage
+
+commit d72e25882495c0bf13474e2c6a649626ff0b8238
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:35:37 2019 -0800
+
+    Suggestions is fully embedded properly
+
+commit 6f7b8c1a738b784555ab27f10a36fc5911e78fc7
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:33:57 2019 -0800
+
+    Added forgotten code
+
+commit 3955bbc3984f1f03a6e4e5c5a57bbb645ebcb888
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:33:22 2019 -0800
+
+    Updated suggestions to be embedded on website (index2 became suggestions)
+
+commit 8869c130b9cf73fe64965dbd19519c7555332827
+Merge: f3f6756 d4781d2
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 15:22:41 2019 -0800
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit f3f6756e0651fde8a0fa67b9692589f68a004bbe
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Nov 6 15:22:25 2019 -0800
+
+    added search
+
+commit d4781d24680d74490a7b77fe8854591cca4c1de9
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:03:25 2019 -0800
+
+    Just saving github link text file
+
+commit 4f38ab2e375b42d4bd296fd643a00630f40f6a9f
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 15:00:23 2019 -0800
+
+    Diagrams for cases (attempt)
+
+commit 3fb32550119d14e9133b206bb53eaa348b307bfe
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 14:54:51 2019 -0800
+
+    Updated header for search
+
+commit 7fc2554be09a5b3f170d75a3816ff0450158920b
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 11:40:40 2019 -0800
+
+    Updated about and style to mess with the font size
+
+commit adcb429e6d3ece64280d1be3cbfc90ef12d36583
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Nov 6 11:32:56 2019 -0800
+
+    Updated mainPage and tried to change font for aboutUs text
+
+commit 17376c170b49980a6ae05a2114250a7e438bdecc
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Nov 5 13:53:35 2019 -0800
+
+    Update .DS_Store
+
+commit 98e747d6488d91ff17c86fee09feaf435435742e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 5 11:39:23 2019 -0800
+
+    dropdown updated
+
+commit 73de073bfd899759bc352ec90a06966304f6314d
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 5 11:02:41 2019 -0800
+
+    dropdown menu
+
+commit 20d6fc9d0b6adc0ce9699aa5d4fd42f8d3a6e966
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 5 10:53:47 2019 -0800
+
+    header update
+
+commit 529e4fcfe2f9416da5f83ea44a7987400bf7e761
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Nov 5 09:41:19 2019 -0800
+
+    put header on index page
+
+commit 425317bb71dcdc2fe0b22420f5e351ac82fd4324
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Mon Nov 4 21:38:01 2019 -0800
+
+    messed with index with semantic.
+
+commit 83453f065a7d9a5c7db346e7a6971d073d83a88a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 1 09:10:42 2019 -0700
+
+    Updated header and commented on the homepage code
+
+commit dff76be40550ccb8f594c93c2ab5e6678812d1d9
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Nov 1 08:54:08 2019 -0700
+
+    Update .DS_Store
+
+commit b20909693f8696e3945612a02742d0546b827add
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 12:52:18 2019 -0700
+
+    fixed links
+
+commit 5ed4ad74a0a01c60f0eb674b6df6d8026202e73b
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 12:41:25 2019 -0700
+
+    added footer
+
+commit dd1442d00efb835c26029db510ee57973ee215ca
+Merge: d77be8f 4dcd32c
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 12:37:30 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit d77be8f0017b8bbf1981fa7e5fba473a0be167a7
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 12:34:55 2019 -0700
+
+    fixing pages
+
+commit 56a3954deec7b1897ee4b1610b8137181ef27e37
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 12:32:31 2019 -0700
+
+    added to header
+
+commit 4dcd32c9c4d09cde54da6f6a3712696a3734d8ae
+Merge: 1689d41 458c1a8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Oct 31 10:10:18 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 1689d41cbf8d7aff623dbd40c2e311ee9ea37fd2
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Thu Oct 31 10:10:16 2019 -0700
+
+    Tinkering to get header straight across on all pages
+
+commit 458c1a83d78deab53538179a8ff789432b23e276
+Merge: 1e8474f 6f9428d
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 09:41:24 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 1e8474fa46458639e107045601bfe3642b13fa8e
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Thu Oct 31 09:41:21 2019 -0700
+
+    messed with again
+
+commit 6f9428db44f234eb30ef9437501ccadd2be5578b
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 17:14:47 2019 -0700
+
+    More testing
+
+commit 0c20bc58dd7ef2a05af1d0a11ea5ab881bae1383
+Author: K <33667184+DisneyLover5000@users.noreply.github.com>
+Date:   Wed Oct 30 17:06:34 2019 -0700
+
+    Update README.md
+
+commit f467bf418a797676bbdea7b823218520b260d0b8
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 17:05:29 2019 -0700
+
+    Update crafts.html
+
+commit b760ebd793698395c70b72cac8511adee1024354
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 17:00:41 2019 -0700
+
+    Got a craft website started
+    
+    Includes a list example
+
+commit efb1242a162d2a65f2b8e9d3ea71b1841bdda0d1
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 16:53:32 2019 -0700
+
+    Website background color changed
+
+commit e31115ccd61e53666affb4e432f0873ab2381c18
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 16:49:02 2019 -0700
+
+    Just updated some more testing html code
+
+commit cba25ad5d37e94cbda081d07303db1449481e5c6
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 16:37:10 2019 -0700
+
+    Got working within itself for testing
+
+commit 2a612094fb0aafe500a3d3e72715ead87ad2269e
+Merge: 3290ab0 001254d
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 16:09:41 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 3290ab091593265d375f599d3b377909e53c4dba
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 16:09:33 2019 -0700
+
+    testing more
+
+commit 001254d48b3fd86c3f5f8ead83d8dbc15d8d68a0
+Merge: 8861620 e72406a
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Oct 30 15:55:55 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 88616209cd12abb525bc47e6d70414a5be59debc
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Oct 30 15:51:52 2019 -0700
+
+    atempts to embed headers
+
+commit e72406a80de062a10f5c108629c1015b500bcc02
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 30 15:48:52 2019 -0700
+
+    Testing HTML coding
+
+commit 7a646cbe66fcb7cdb7cb5db16412a33c4e16003b
+Merge: 501ec55 017d954
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Oct 30 15:09:34 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 501ec553971105093aeab1fd55e89ec090610074
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Wed Oct 30 15:09:20 2019 -0700
+
+    started html files
+
+commit 017d9549b6fc2224661317dba37804640c1500cc
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Oct 29 13:03:29 2019 -0700
+
+    Fixed minor comment error
+
+commit b74c0ade6524182c2358188aa7b0768bea631914
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Oct 29 13:01:11 2019 -0700
+
+    Updated logo code and commented parts
+
+commit 959d148a8d1305fb04a59223886363571dbfc20c
+Author: rebekah-47 <56046870+rebekah-47@users.noreply.github.com>
+Date:   Tue Oct 29 12:42:35 2019 -0700
+
+    Created logo.py
+
+commit 4f12b248f07f5c1df4a95de75763b7c88d42eed1
+Author: K <33667184+DisneyLover5000@users.noreply.github.com>
+Date:   Tue Oct 29 12:35:28 2019 -0700
+
+    Update README.md
+    
+    Added a better brief description of the project and included the phase we are in for this project.
+
+commit 52dad0d531215293ed75a78d8872343b42a3e89a
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Oct 25 10:31:17 2019 -0700
+
+    Milestone1 Requirement
+    
+    Just some screenshots. Don't worry about it
+
+commit d2057b9c71bf0e7ec027db9c9c01226ea436d557
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Fri Oct 25 10:25:57 2019 -0700
+
+    Added SRS Document
+    
+    Just a rough draft
+
+commit 4c08190bdcd641da3374c73e4daab8e1a8f11304
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Mon Oct 7 09:40:43 2019 -0700
+
+    Update .DS_Store
+
+commit b1de221e080f80dd3a14c1d26cf1aaf3a1bf1be5
+Merge: 03715f1 52b63f9
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 2 12:53:57 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 03715f155190c08f820cb70cddf6f05f9ce700dc
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Wed Oct 2 12:53:56 2019 -0700
+
+    Computer Removal
+    
+    Just removed a document from the folder on my computer
+
+commit 52b63f903abddf9cc30bd9fa04b53a8c6da28a73
+Author: K <33667184+DisneyLover5000@users.noreply.github.com>
+Date:   Tue Oct 1 13:07:30 2019 -0700
+
+    Delete srs_template.docx
+    
+    Didn't show up well from going onto Mac. So put it in google docs and will upload this part later properly
+
+commit fcde7a543a7d95e38d9b3506e02b798ba96a569f
+Merge: 035ea42 267b48c
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Oct 1 12:58:43 2019 -0700
+
+    Merge branch 'master' of https://github.com/DisneyLover5000/CS320Project
+
+commit 035ea42f0609418b350d1be5647445513130bbab
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Oct 1 12:58:42 2019 -0700
+
+    Create srs_template.docx
+    
+    Just added the template so both could access so far
+
+commit 267b48c21b83677eb2b535e796dc5d2a635e4996
+Author: K <33667184+DisneyLover5000@users.noreply.github.com>
+Date:   Tue Oct 1 12:23:13 2019 -0700
+
+    Update and rename README.md.rtf to README.md
+    
+    Quickly updated readme so it wasn't an .rtf file
+
+commit 8136167dddef8530aa5b419ee6a4c133a231b95e
+Author: Katie <katherine.cederdahl@wsu.edu>
+Date:   Tue Oct 1 12:22:06 2019 -0700
+
+    Create README.md.rtf
+    
+    First commit of general README
